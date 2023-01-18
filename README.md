@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nimo-codes
 - 👀 I’m interested in python and AI/Ml
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on projects including basic machine learning models and python-projects
+- 🌱 I’m currently learning machine learning and deep learning
+- 💞️ I’m looking to collaborate on projects including machine learning models and python-projects
 - 📫 mail me on naman_nanda@yahoo.com
 <!---
 nimo-codes/nimo-codes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
