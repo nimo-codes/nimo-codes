@@ -1,14 +1,14 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F68097599%2FBanner-Images-for-Coding-Challenges&psig=AOvVaw2owvSX_0ue_R-HceWqP3C_&ust=1681227630234000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMD5yZDTn_4CFQAAAAAdAAAAABAO)]
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Naman Nanda (Nimo-Codes)</h1>
 <h3 align="center">A Passionate AI/ML Enthusisast, loves to code !!</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nimo-codes&label=Profile%20views&color=0e75b6&style=flat" alt="nimo-codes" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nimo-codes" alt="nimo-codes" /></a> </p>
 
 - 🌱 I’m currently learning **Kotlin**
 
 - 👯 I’m looking to collaborate on **Python based projects including high level Machine learning projects**
+
+- 👨‍💻 All of my projects are available at [https://github.com/nimo-codes?tab=repositories](https://github.com/nimo-codes?tab=repositories)
 
 - 💬 Ask me about **Python, CPP, Tensorflow, Keras**
 
